@@ -1,0 +1,6 @@
+Steps for Ordering Pizza Algo
+
+Decide which business to buy from
+Decide which pizza to buy
+Decide Pick Up or Delivery
+Decide Payment Option
